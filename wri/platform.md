@@ -25,6 +25,7 @@
 ## Applications
 * Bonusly
 * [Eno][] from Capital One
+* [Earplay]( https://www.earplay.com/ ) has Alexa, Google, and custom app VUIs
 
 [Amazon Echo]: https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-Alexa-Black/dp/B00X4WHP5E
 [Eno]: https://medium.com/capitalonetech/what-we-learned-about-what-our-chatbot-learned-56d105575630?linkId=43876647
