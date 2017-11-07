@@ -1,0 +1,3 @@
+I think its a bit premature considering we were first formulating the actual idea.  Hard to spend time putting a strategy together without knowing what timing is for both development and commitment.  Tends to be a standard issue.  Programmers want people to build a GTM strategy with certainty without contributing their own certainty.  Basically a free marketing plan/strategy to then go an try and execute themselves perhaps.   Certainly not something to go out and market to valuable relationships without knowing commitment and product.  
+
+But I respect your opinion and look forward to speaking in the future.  
