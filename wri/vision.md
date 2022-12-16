@@ -28,18 +28,18 @@ reads, Alice's avatar explores the chamber in response to joystick input.
 
 Suddenly, a monster attacks!  Alice sees the monster, and immediately begins
 attacking, parrying, and casting spells.  Each attack either strikes or misses
-the monster, depending on the Alice's dexterity with the joystick.  Meanwhile,
-Bob is notified -- "A MONSTER ATTACKS!" -- and replies with the instruction
-"LAUNCH CROSSBOW BOLT."  Virtual dice are rolled, causing both Bob and the
-monster to sustain randomly determined damage.  Bob is notified: "BOLT STRIKES
-MONSTER for 27 DAMAGE (73 LIFE POINTS REMAINING).  MONSTER BITES BOB FOR 18
-DAMAGE (82 LIFE POINTS REMAINING)." The interaction of Bob's avatar with the
-monster is rendered for Alice along with simulated battle to keep the action
-lively:  Not only is the crossbow carefully leveled and aimed, but a series of
-blows and parries is also generated.  Specifics of the combat are not important
-to the game, so long as they entertain Alice, and eventually result in the
-correct outcome, as determined by the dice rolled for Bob.  Every few seconds,
-or perhaps only after the battle, the interaction of Alice with the monster is
+the monster, depending on Alice's dexterity with the joystick.  Meanwhile, Bob
+is notified -- "A MONSTER ATTACKS!" -- and replies with the instruction "LAUNCH
+CROSSBOW BOLT."  Virtual dice are rolled, causing both Bob and the monster to
+sustain randomly determined damage.  Bob is notified: "BOLT STRIKES MONSTER for
+27 DAMAGE (73 LIFE POINTS REMAINING).  MONSTER BITES BOB FOR 18 DAMAGE (82 LIFE
+POINTS REMAINING)." The interaction of Bob's avatar with the monster is
+rendered for Alice along with simulated battle to keep the action lively:  Not
+only is the crossbow carefully leveled and aimed, but a series of blows and
+parries is also generated.  Specifics of the combat are not important to the
+game, so long as they entertain Alice, and eventually result in the correct
+outcome, as determined by the dice rolled for Bob.  Every few seconds, or
+perhaps only after the battle, the interaction of Alice with the monster is
 summarized to Bob: "ALICE HAS SUSTAINED 42 DAMAGE AND HAS 58 LIFE POINTS
 REMAINING."
 
